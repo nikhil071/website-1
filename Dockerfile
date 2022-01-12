@@ -1,3 +1,3 @@
-FROM nikhil071/nikimg
+FROM hshar/webapp:latest
 ADD . /var/www/html
 
